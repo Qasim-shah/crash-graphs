@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Outputs and data (often large)
+outputs/
+data/
+
+# Logs and caches
+*.log
+.mypy_cache/
+.pytest_cache/
+.cache/
+
+# Build/dist
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tooling/IDE
+.DS_Store
+.idea/
+.vscode/
+
